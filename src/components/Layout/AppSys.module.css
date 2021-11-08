@@ -1,0 +1,10 @@
+.appSys{
+    margin: 2rem auto;
+    padding: 0 2rem;
+    width: 90%;
+    max-width: 40rem;
+    border-radius: 10px;
+    border:2px solid black;
+    background-color: white;
+}
+
